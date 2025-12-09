@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Naveen
+# Hi there!  I'm Naveen
 
 ## About Me
 
@@ -39,7 +39,6 @@ I'm a passionate developer with a focus on building innovative solutions using m
 
 ## 🌱 Currently Learning
 
-- Advanced AI/ML algorithms and deep learning techniques
 - Cloud architecture and distributed systems
 - Full-stack web development best practices
 - DevOps and CI/CD pipelines
@@ -60,7 +59,7 @@ I'm a passionate developer with a focus on building innovative solutions using m
 ## 📫 How to Reach Me
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/naveensh16)
-- 📧 Email: [naveensh16@email.com](mailto:naveensh16@email.com)
+- 📧 Email: [naveensh16@email.com](mailto:naveensh162@email.com)
 - 🐦 Twitter: [@naveensh16](https://twitter.com/naveensh16)
 - 🌐 Portfolio: [naveensh16.dev](https://naveensh16.dev)
 
