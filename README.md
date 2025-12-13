@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!
 
 I'm **Naveen**, a passionate developer focused on building innovative solutions with modern technologies. Always learning, always growing.
 
