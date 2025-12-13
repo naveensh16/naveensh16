@@ -16,18 +16,21 @@ I'm **Naveen**, a passionate developer focused on building innovative solutions 
 
 ## 🚀 Featured Projects
 
-- **[SecureSpaceBox](https://github.com/naveensh16/secure-space-box)** - Secure storage with advanced encryption
-- **[MergeX](https://github.com/naveensh16/MergeX)** - Intelligent data processing tool
-- **[UniVault](https://github.com/naveensh16/UniVault)** - University resource management system
-- **[Atomic Structure](https://github.com/naveensh16/atomic-structure)** - Educational visualization tool
-
+- **[VoiceVibe](https://github.com/naveensh16/VoiceVibe)** - Voice recording and AI analysis platform
+- **[LLM Evaluation Pipeline](https://github.com/naveensh16/llm-evaluation-pipeline)** - ML pipeline for evaluating large language models
+- **[Vaultify](https://github.com/naveensh16/Vaultify)** - Secure password management system
+- **[Sweet Shop Management](https://github.com/naveensh16/sweet-shop-management)** - Full-stack inventory and billing system
 ## 🌱 Currently Learning
 
 Cloud architecture • Full-stack development • DevOps & CI/CD
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/naveensh16) • [Twitter](https://twitter.com/naveensh16) • [Portfolio](https://naveensh16.dev/) • naveensh162@gmail.com
+💼 **LinkedIn** • [Connect with me](https://www.linkedin.com/in/naveensh16)
+🐦 **Twitter** • [@naveensh16](https://twitter.com/naveensh16)
+🌐 **Portfolio** • [naveensh16.dev](https://naveensh16.dev/)
+⚡ **LeetCode** • [naveensh16](https://leetcode.com/naveensh16/)
+📧 **Email** • naveensh162@gmail.com
 
 ---
 
