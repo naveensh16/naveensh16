@@ -1,6 +1,6 @@
-# Hi there! 👋 Welcome to My Profile
+# Hi there!
 
-I'm **Naveen Kumar Sharma**, a passionate Computer Science student from **Chandigarh University** focused on building innovative solutions with modern technologies. I'm committed to mastering **Data Structures & Algorithms** and preparing for internships at top tech companies like **Nagarro**, **JP Morgan**, and **Accenture**.
+I'm **Naveen Kumar Sharma**, a passionate Computer Science student from **Chandigarh University** focused on building innovative solutions with modern technologies. I'm committed to mastering **Data Structures & Algorithms**.
 
 > Always learning, always growing. Passionate about **competitive programming**, **full-stack development**, and **solving complex problems**.
 
@@ -85,7 +85,6 @@ AI-powered research collaboration platform
 
 ## 🌱 Currently Learning & Goals
 
-- 🎯 **Internship Preparation:** Targeting Nagarro, JP Morgan, Accenture
 - 🏗️ **Cloud Architecture:** AWS/GCP fundamentals and deployment
 - 🔧 **Advanced Backend:** Microservices, System Design, Scalability
 - 🚀 **DevOps & CI/CD:** GitHub Actions, Docker, Kubernetes basics
