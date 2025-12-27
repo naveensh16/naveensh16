@@ -132,3 +132,26 @@ AI-powered research collaboration platform
 ![Profile Views](https://komarev.com/ghpvc/?username=naveensh16&color=blue)
 
 </div>
+
+## 📄 Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveensh16&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area=true&hide_border=true&theme=github-dark)
+
+---
+
+## 📊 GitHub Statistics
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💫 Top Languages</h3>
+      
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveensh16&layout=compact&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff&border_color=30363d&hide_border=true)
+    </td>
+    <td valign="top" width="50%">
+      <h3>📊 Contribution Stats</h3>
+      
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveensh16&show_icons=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&border_color=30363d&hide_border=true&count_private=true&include_all_commits=true)
+    </td>
+  </tr>
+</table>
