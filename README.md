@@ -141,17 +141,24 @@ AI-powered research collaboration platform
 
 ## 📊 GitHub Statistics
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>💫 Top Languages</h3>
-      
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveensh16&layout=compact&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff&border_color=30363d&hide_border=true)
-    </td>
-    <td valign="top" width="50%">
-      <h3>📊 Contribution Stats</h3>
-      
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveensh16&show_icons=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&border_color=30363d&hide_border=true&count_private=true&include_all_commits=true)
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/naveensh16">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naveensh16&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/naveensh16">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveensh16&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages" />
+  </a>
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+- **50+** GitHub contributions in the last year
+- **12** public repositories with diverse projects
+- **6** repositories created in December 2025 alone
+- **33** commits across multiple repositories
+- Expertise in **Java, Python, JavaScript, C++**
+- Full-stack development experience with **React, Spring Boot, Node.js**
+- Machine Learning projects using **TensorFlow, PyTorch**
+- Active competitive programmer on **LeetCode, CodeChef, Codeforces**
