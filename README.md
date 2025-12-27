@@ -6,6 +6,7 @@ I'm **Naveen Kumar Sharma**, a passionate Computer Science student from **Chandi
 
 ---
 
+<!-- START DYNAMIC STATS -->
 ## 📊 GitHub Stats
 
 ```
@@ -162,3 +163,4 @@ AI-powered research collaboration platform
 - Full-stack development experience with **React, Spring Boot, Node.js**
 - Machine Learning projects using **TensorFlow, PyTorch**
 - Active competitive programmer on **LeetCode, CodeChef, Codeforces**
+- <!-- END DYNAMIC STATS -->
